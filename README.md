@@ -59,6 +59,8 @@ Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-
 
 Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
 Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
 
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
