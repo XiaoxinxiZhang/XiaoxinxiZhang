@@ -1,7 +1,4 @@
-# A first-level heading
-## A second-level heading
-### A third-level heading
-#### A fourth-level heading
+# About me
 - 👋 Hi, I’m @XiaoxinxiZhang
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -9,8 +6,3 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<!---
-XiaoxinxiZhang/XiaoxinxiZhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
